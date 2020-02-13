@@ -1,7 +1,7 @@
 # Title: Assignment 2 List Operations
 # Author: Benjamin Lemery
 # Date: 2/11/20
-# Description:
+# Description: This program demonstrates how to manipulate lists.
 
 user_inputs = []
 
